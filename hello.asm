@@ -1,6 +1,6 @@
 # hello.asm
 # A "Hello World" program in MIPS Assembly for CS64
-#
+# Gama Aristondo
 #  Data Area - allocate and initialize variables
 .data
 	# TODO: Write your string definitions here
